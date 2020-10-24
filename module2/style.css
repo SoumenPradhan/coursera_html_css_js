@@ -1,0 +1,25 @@
+h2 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.highlight {
+    background-color: seagreen;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    opacity: .9;
+    text-align: center;
+}
+
+#MainPoint {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: red;
+    opacity: .9;
+}
+
+p, h1 {
+    color: blue;
+}
